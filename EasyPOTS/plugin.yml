@@ -1,0 +1,7 @@
+---
+name: EasyPOTS
+version: 0.0.1
+main: Mercy\FixPots\Main
+description: Pots fixed by Mercy - Silex.club
+api: [3.0.0, 4.0.0]
+...
