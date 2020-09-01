@@ -1,0 +1,2 @@
+# EasyPots
+Mcpe pot fixed !
