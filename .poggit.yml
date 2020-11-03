@@ -5,5 +5,5 @@ branches:
 projects:
   EasyPOTS:
     path: EasyPOTS/
-    icon: icon.png
+    icon: EasyPOTS/icon.png
 ...
