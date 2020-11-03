@@ -4,6 +4,6 @@ branches:
 - master
 projects:
   EasyPOTS:
-    path: EasyPOTS/
+    path: EasyPOTS/EasyPOTS/
     icon: icon.png
 ...
